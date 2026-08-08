@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Order Book Simulator
+Comment=Live order book simulation, charting and strategy backtesting
+Exec=/opt/orderbooksimulator/OrderBookSimulator
+Icon=/opt/orderbooksimulator/icon.png
+Terminal=false
+Categories=Office;Finance;Education;
+StartupWMClass=OrderBookSimulator

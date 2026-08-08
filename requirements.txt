@@ -1,0 +1,5 @@
+PySide6>=6.6,<7.0
+pyqtgraph>=0.13.3
+numpy>=1.24
+sortedcontainers>=2.4
+pyinstaller>=6.3
